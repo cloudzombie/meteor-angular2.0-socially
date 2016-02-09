@@ -11,9 +11,14 @@
     "typings/ng2-meteor-accounts/ng2-meteor-accounts.d.ts",
     "typings/ng2-pagination/ng2-pagination.d.ts",
     "typings/ng2-google-maps/ng2-google-maps.d.ts",
+    "typings/ionic2-meteor/ionic2-meteor.d.ts",
     "typings/party.d.ts",
     "typings/Counts.d.ts",
+    "typings/socially.d.ts",
     "client/app.ts",
-    "server/main.ts"
+    "server/main.ts",
+    "packages/socially-browser/main.ts",
+    "packages/socially-client/main.ts",
+    "packages/socially-mobile/main.ts"
   ]
 }
